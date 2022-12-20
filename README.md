@@ -19,7 +19,7 @@
 <hr>
 
 - 👩🏻‍💻 I’m currently working on Responsive Web Design.
-- 🤓 I’m currently learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
+- 🤓 I’m learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
 - 🚀 Recently, I have started <a href="https://www.patika.dev/bootcamp/solana-practicum">the Solana x Patika.dev Practicum</a> to learn about Web 3.0, blockchains, DApps and Solana because I am really excited and curious about the future of the web that I can't just get enough of trying to understand the concepts new to our world! 👀
 - 🗨️ You can always poke me from <a href="https://discordapp.com/users/698121863057899531">my Discord</a> about anything related to coding, technology, etc., or just for chit-chat. 🧡
 <!--- - 🙆🏻‍♀️ Fun fact: If you are curious about what does Guerillagi mean scroll down :)</p> -->
