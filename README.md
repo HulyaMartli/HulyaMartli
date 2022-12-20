@@ -23,4 +23,5 @@
 - 🗨️ You can always poke me from <a href="https://discordapp.com/users/698121863057899531">my Discord</a> about anything related to coding, technology, etc., or just for chit-chat. 🧡
 <!--- - 🙆🏻‍♀️ Fun fact: If you are curious about what does Guerillagi mean scroll down :)</p> -->
 <!-- platane/snk works, it just puts it on a new branch -->
-![snake gif](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
+
+![](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
