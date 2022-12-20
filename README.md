@@ -1,3 +1,6 @@
+<p allign="center"> Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30"></p>
+  <p>I am Hulya aka. Guerillagi. I started my coding journey when I was studying Chemical Engineering 👩🏻‍🔬 but I realized I want to spend my life surrounded with design and coding rather than pursuing engineering. Nowadays, I am all about Front-End Development and trying to explore ways to express myself through design and coding.</p>
+
 <hr>
 <div id="header" align="center">
     <img src="https://i.ibb.co/dQzjY98/wecancodeit.png" width="300" alt="WeCanCodeIt"><br>
@@ -14,8 +17,6 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="100" alt="ConfusedCoderCat">
 </div>
 <hr>
-<p allign="center"> Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30"></p>
-  <p>I am Hulya aka. Guerillagi. I started my coding journey when I was studying Chemical Engineering 👩🏻‍🔬 but I realized I want to spend my life surrounded with design and coding rather than pursuing engineering. Nowadays, I am all about Front-End Development and trying to explore ways to express myself through design and coding.</p>
 
 - 👩🏻‍💻 I’m currently working on Responsive Web Design.
 - 🤓 I’m currently learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
