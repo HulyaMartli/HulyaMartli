@@ -11,6 +11,7 @@
   <a href="https://www.sololearn.com/profile/25684479"><img align="center" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"></a>
   <a href="https://www.behance.net/guerillagi"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
   <a href="https://www.instagram.com/guerillagi/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+    <a href="https://www.facebook.com/GuerillagiDev"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
   <br><br>
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100" alt="CrazyTypingCat">
   <img src="https://c.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" height="100" alt="AngryComputerCat">
