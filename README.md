@@ -63,4 +63,4 @@ But it is special because my nickname means something significant to me, and it 
 
 ## Sources
 
-We Can Code It Women by <a href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt">Anny Chen</a>.
+We Can Code It Woman by <a href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt">Anny Chen</a>.
