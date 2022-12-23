@@ -1,5 +1,9 @@
-<p allign="center"> Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30"></p>
-  <p>I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded with design 🎨 and coding 👩🏽‍💻 rather than pursuing engineering. Nowadays, I am all about Front-End Development and trying to explore ways to express myself through design and coding.</p>
+Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
+
+I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded with design 🎨 and coding 👩🏽‍💻 rather than pursuing engineering. Nowadays, I am all about Front-End Development and trying to explore ways to express myself through design and coding. I generally gained experience in the management area; that was the path life offered me at that time. Still, I also worked as a Technical Suppor Specialist for approximately 1 year, so I was fortunately involved with technology. You can always check my LinkedIn profile for more details.
+
+
+Nowadays, I am all about Front-End Development and exploring ways to express myself through design and coding. I am trying to accomplish one of my dreams of being a Frontend/UI Developer/Designer, and I am in a career transition full of excitement, constant learning, and code to death kind of period!
 
 ---
 
