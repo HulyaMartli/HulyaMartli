@@ -4,7 +4,7 @@
 
 Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
 
-I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded with design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Nowadays, I am all about Front-End Development and trying to explore ways to express myself through design and coding. I generally gained experience in the management area; that was the path life offered me at that time. Still, I also worked as a Technical Suppor Specialist for approximately 1 year, so I was fortunately involved with technology. You can always check my LinkedIn profile for more details.
+I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded with design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Nowadays, I am all about Front-End Development and trying to explore ways to express myself through design and coding. I generally gained experience in the management area; that was the path life offered me at that time. Still, I also worked as a Technical Suppor Specialist for approximately 1 year, so I was fortunately involved with technology. You can always check my <a href="#linkedin">LinkedIn profile</a> for more details.
 
 
 Nowadays, I am all about Front-End Development and exploring ways to express myself through design and coding. I am trying to accomplish one of my dreams of being a Frontend/UI Developer/Designer, and I am in a career transition full of excitement, constant learning, and code to death kind of period!
@@ -16,7 +16,7 @@ Nowadays, I am all about Front-End Development and exploring ways to express mys
 ## 🤺 Tools
 <img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" /> <img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC" />
 
-## 👀 Platforms
+## 👀 Platforms <a name="linkedin"></a>
 
 <section align="center">
   <a href="https://www.linkedin.com/in/hulyamartli/"><img width="120px" align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
