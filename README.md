@@ -11,10 +11,10 @@ Nowadays, I am all about Front-End Development and exploring ways to express mys
 </section>
 
 ## :space_invader: Tech Stack
-<img width="50" alt="HTML5" src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"> 
+<img width="50" alt="HTML5" src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"> <img width="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png">
 
 ## 🤺 Tools
-<img width="50" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" /> <img width="50" src="https://cdn.simpleicons.org/canva/00C4CC" />
+<img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" /> <img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC" />
 
 ## 👀 Platforms
 
