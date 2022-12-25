@@ -32,11 +32,11 @@ Nowadays, I am all about Front-End Development and exploring ways to express mys
 ## 🐯 Moods in General:
 <section align="center">
   <img src="https://media.giphy.com/media/rZs9PopYqrHonzk9aM/giphy-downsized-large.gif" height="300" alt="MicromanagementCat">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300" alt="CrazyTypingCat">
+  <img src="https://media.giphy.com/media/SqmaAe6x2stZC/giphy.gif" height="300" alt="FuckThisCat">
   <img src="https://c.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" height="300" alt="AngryComputerCat"><br>
-  <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif" width="209" alt="CrazyTypingCat">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="208" alt="ConfusedCoderCat">
-  <img src="https://media1.giphy.com/media/WPaWGoyXWL4ATFHuQv/200w.webp?cid=ecf05e47qe33enxtixzggtl1fg3dz22u0zv33wruny4nuuzi&rid=200w.webp&ct=g" height="208" alt="CatParty">
+  <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif" width="219" alt="CrazyTypingCat">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="219" alt="ConfusedCoderCat">
+  <img src="https://media1.giphy.com/media/WPaWGoyXWL4ATFHuQv/200w.webp?cid=ecf05e47qe33enxtixzggtl1fg3dz22u0zv33wruny4nuuzi&rid=200w.webp&ct=g" height="219" alt="CatParty">
 </section>
  
  
