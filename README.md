@@ -10,10 +10,10 @@ Nowadays, I am all about learning something new, and I am in a career transition
 
 
 ## :space_invader: Tech Stack
-<img width="50" alt="HTML5" src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"> <img width="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png">
+<a href="https://dev.w3.org/html5/spec-LC/"><img width="50" alt="HTML5" src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/"><img width="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/"><img width="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a>
 
 ## 🤺 Tools
-<img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" /> <img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC" />
+<a href="https://code.visualstudio.com/"><img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/007ACC"></a> <a href="https://www.canva.com/"><img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a>
 
 ## 👀 Platforms <a name="linkedin"></a>
 
