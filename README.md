@@ -17,7 +17,6 @@ Nowadays, I am all about learning something new, and I am in a career transition
 
 
 ## 👀 Platforms <a name="linkedin"></a>
-
 <section align="center">
   <a href="https://www.linkedin.com/in/hulyamartli/"><img width="120px" align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://app.patika.dev/hulyamartli"><img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif" align="center" width="30px" alt="CoolDoge"></a><a href="https://app.patika.dev/hulyamartli"><img align="center" src="https://camo.githubusercontent.com/29e9bbcb9ee17b418dd900b2a87b4325c1e4a231dfdc04fd8c23687f91a22958/68747470733a2f2f676c6f62616c2d75706c6f6164732e776562666c6f772e636f6d2f3630393765306563613165383735353764613033316665662f3630393835396131393161626535643634623137666564335f506174696b612532306c6f676f2e706e67" alt="Hulya Martli | Patika.dev" width="80px" data-canonical-src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" style="max-width: 100%;"></a>
@@ -54,8 +53,8 @@ Nowadays, I am all about learning something new, and I am in a career transition
 <!-- platane/snk works, it just puts it on a new branch -->
 ![snake gif](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
 
-### **Fun Fact About My Nickname** ***"Guerillagi"***
 
+### **Fun Fact About My Nickname** ***"Guerillagi"***
 When I meet someone new, one of the questions they first ask is why my nickname is *Guerillagi* all over the place and what it means. So I wanted to add it here as a fun fact.
 
 In high school, I was crazy about this group called [Guerilla Girls](https://en.wikipedia.org/wiki/Guerrilla_Girls). They are a group of female artists devoted to fighting sexism and racism within the art world, and their creations: the posters, slogans, etc., were so amazing ([check their website](https://www.guerrillagirls.com/)) that I always dreamed of being one of them. So, I am trying to remember which platform I was signing in to, but it was around 2007 or 2008; maybe it was Twitter? :D I am not sure, though, so I was creating a new account for that platform, and I wanted the nickname "GuerillaGirl," but it was already taken, of course. :/, and then I started deleting letters to see which nickname was available... Guerillagi was available, and I loved the sound of it! :D Like it was meant to be my nickname for good. After that, I started using it everywhere on the web. So, yes, it is that boring story actually, nothing special about it!
