@@ -30,18 +30,17 @@ Nowadays, I am all about learning something new, and I am in a career transition
 
 
 ## 🖼️ Certificates
-
 <a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img width="100" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a>
 
 
 ## 🐯 Moods in General:
 <section align="center">
-  <img src="https://media.giphy.com/media/rZs9PopYqrHonzk9aM/giphy-downsized-large.gif" height="300" alt="MicromanagementCat">
-  <img src="https://media.giphy.com/media/SqmaAe6x2stZC/giphy.gif" height="300" alt="FuckThisCat">
-  <img src="https://c.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" height="300" alt="AngryComputerCat"><br>
-  <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif" width="219" alt="CrazyTypingCat">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="219" alt="ConfusedCoderCat">
-  <img src="https://media1.giphy.com/media/WPaWGoyXWL4ATFHuQv/200w.webp?cid=ecf05e47qe33enxtixzggtl1fg3dz22u0zv33wruny4nuuzi&rid=200w.webp&ct=g" height="219" alt="CatParty">
+  <img src="https://media.giphy.com/media/rZs9PopYqrHonzk9aM/giphy-downsized-large.gif" height="200" alt="MicromanagementCat">
+  <img src="https://media.giphy.com/media/SqmaAe6x2stZC/giphy.gif" height="200" alt="FuckThisCat">
+  <img src="https://c.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" height="200" alt="AngryComputerCat"><br>
+  <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif" width="147" alt="CrazyTypingCat">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="146" alt="ConfusedCoderCat">
+  <img src="https://media1.giphy.com/media/WPaWGoyXWL4ATFHuQv/200w.webp?cid=ecf05e47qe33enxtixzggtl1fg3dz22u0zv33wruny4nuuzi&rid=200w.webp&ct=g" height="145" alt="CatParty">
 </section>
 
 
