@@ -30,7 +30,7 @@ Nowadays, I am all about learning something new, and I am in a career transition
 
 
 ## 🖼️ Certificates
-<a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img width="100" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a>
+<a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img width="150" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a>
 
 
 ## 🐯 Moods in General:
