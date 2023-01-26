@@ -15,10 +15,6 @@ Nowadays, I am all about learning something new, and I am in a career transition
 ## 🤺 Tools
 <a href="https://code.visualstudio.com/"><img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/"><img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a>
 
-## 🖼️ Certificates
-
-<a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img width="100" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a>
-
 
 ## 👀 Platforms <a name="linkedin"></a>
 
@@ -32,7 +28,13 @@ Nowadays, I am all about learning something new, and I am in a career transition
   <a href="https://www.facebook.com/GuerillagiDev"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
   <a href="mailto:hulyamartli@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
  </section>
-  
+
+
+## 🖼️ Certificates
+
+<a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img width="100" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a>
+
+
 ## 🐯 Moods in General:
 <section align="center">
   <img src="https://media.giphy.com/media/rZs9PopYqrHonzk9aM/giphy-downsized-large.gif" height="300" alt="MicromanagementCat">
@@ -42,15 +44,12 @@ Nowadays, I am all about learning something new, and I am in a career transition
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="219" alt="ConfusedCoderCat">
   <img src="https://media1.giphy.com/media/WPaWGoyXWL4ATFHuQv/200w.webp?cid=ecf05e47qe33enxtixzggtl1fg3dz22u0zv33wruny4nuuzi&rid=200w.webp&ct=g" height="219" alt="CatParty">
 </section>
- 
- 
+
 
 ## 🏃🏻‍♀️💨 What am I up to these days?
 - 👩🏻‍💻 I’m currently working on Responsive Web Design.
 - 🤓 I’m learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
-- 🚀 Recently, I have started <a href="https://www.patika.dev/bootcamp/solana-practicum">the Solana x Patika.dev Practicum</a> to learn about Web 3.0, blockchains, DApps and Solana because I am really excited and curious about the future of the web that I can't just get enough of trying to understand the concepts new to our world! 👀
 - 🗨️ You can always poke me from <a href="https://discordapp.com/users/698121863057899531">my Discord</a> about anything related to coding, technology, etc., or just for chit-chat. 🧡
-<!--- - 🙆🏻‍♀️ Fun fact: If you are curious about what does Guerillagi mean scroll down :)</p> -->
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![snake gif](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
