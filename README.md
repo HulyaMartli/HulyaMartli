@@ -13,7 +13,12 @@ Nowadays, I am all about learning something new, and I am in a career transition
 <a href="https://dev.w3.org/html5/spec-LC/"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://getbootstrap.com/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
 
 ## 🤺 Tools
-<a href="https://code.visualstudio.com/"><img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/"><img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a> 
+<a href="https://code.visualstudio.com/"><img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/"><img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a>
+
+## 🖼️ Certificates
+
+<a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img width="100" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a>
+
 
 ## 👀 Platforms <a name="linkedin"></a>
 
