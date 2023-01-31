@@ -55,7 +55,7 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 ![snake gif](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
 
 
-### **Fun Fact About My Nickname** ***"Guerillagi"***
+### 🤹🏻‍♀️ **Fun Fact About My Nickname** ***"Guerillagi"***
 When I meet someone new, one of the questions they first ask is why my nickname is *Guerillagi* all over the place and what it means. So I wanted to add it here as a fun fact.
 
 In high school, I was crazy about this group called [Guerilla Girls](https://en.wikipedia.org/wiki/Guerrilla_Girls). They are a group of female artists devoted to fighting sexism and racism within the art world, and their creations: the posters, slogans, etc., were so amazing ([check their website](https://www.guerrillagirls.com/)) that I always dreamed of being one of them. So, I am trying to remember which platform I was signing up to, but it was around 2007 or 2008; maybe it was Twitter? :D I am not sure, though. So, I was creating a new account for that platform, and I wanted the nickname "GuerillaGirl," but it was already taken, of course. :/, and then I started deleting letters to see which nickname was available... Guerillagi was available, and I loved the sound of it! :D Like it was meant to be my nickname for good. After that, I started using it everywhere on the web. So, yes, it is that boring story actually, nothing special about it!
