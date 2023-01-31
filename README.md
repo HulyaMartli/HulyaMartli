@@ -10,7 +10,7 @@ Nowadays, I am all about learning something new, and I am in a career transition
 
 The best quote explains why I want to be a top-shelf Front-end Developer:
 
-> ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect job for you."*** <br> -Codecademy
+> ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
 
 ## :space_invader: Tech Stack
 <a href="https://dev.w3.org/html5/spec-LC/"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://getbootstrap.com/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
