@@ -4,10 +4,13 @@
 
 Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
 
-I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through design and coding. I generally gained experience in the management area; that was the path life offered me at that time. Still, I also worked in the tech business for approximately 2 years, so I was fortunately involved with technology. You can always check my <a href="#linkedin">LinkedIn profile</a> for more details.
+I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through design and coding. I generally gained experience in the management area; that was the path life offered me at that time. Still, I also worked in the tech business for 2 years, supporting customers and teams on technical support, content publishing, translation, and management, so I was fortunately involved with technology. You can always check my <a href="#linkedin">LinkedIn profile</a> for more details.
 
 Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and code to death kind of period!
 
+The best quote explains why I want to be a top-shelf Front-end Developer:
+
+> ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect job for you."*** <br> -Codecademy
 
 ## :space_invader: Tech Stack
 <a href="https://dev.w3.org/html5/spec-LC/"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://getbootstrap.com/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
