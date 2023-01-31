@@ -1,7 +1,3 @@
-<section align="center">
-<a href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" width="400" alt="WeCanCodeIt"></a><br>
-</section>
-
 Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
 
 I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through design and coding. I generally gained experience in the management area; that was the path life offered me at that time. Still, I also worked in the tech business for 2 years, assisting customers and teams with technical support, content publishing, translation, and management. So, I was fortunately involved with technology. You can always check my <a href="#linkedin">LinkedIn profile</a> for more details.
@@ -12,11 +8,14 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 
 > ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
 
+<section align="center"> 
+<a href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" width="250" alt="WeCanCodeIt"></a></section>
+
 ## :space_invader: Tech Stack
 <a href="https://dev.w3.org/html5/spec-LC/"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://getbootstrap.com/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a> <a href="https://daringfireball.net/projects/markdown/"><img height="50" alt="MarkDown" src="https://cdn.simpleicons.org/Markdown/ffffff"></a>
 
 ## 🤺 Tools
-<a href="https://code.visualstudio.com/"><img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/"><img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a> <a href="https://stackedit.io/"><img width="50" alt="StackEdit" src="https://cdn.simpleicons.org/StackEdit/606060"></a>
+<a href="https://code.visualstudio.com/"><img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/"><img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a> <a href="https://stackedit.io/"><img width="50" alt="StackEdit" src="https://cdn.simpleicons.org/StackEdit/FF8A00"></a>
 
 
 ## 👀 Platforms <a name="linkedin"></a>
