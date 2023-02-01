@@ -9,13 +9,13 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 > ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
 
 <section align="center"> 
-<a href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" width="250" alt="WeCanCodeIt"></a></section>
+<a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" width="250" alt="WeCanCodeIt"></a></section>
 
 ## :space_invader: Tech Stack
-<a href="https://dev.w3.org/html5/spec-LC/"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://getbootstrap.com/"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a> <a href="https://daringfireball.net/projects/markdown/"><img height="50" alt="MarkDown" src="https://cdn.simpleicons.org/Markdown/ffffff"></a>
+<a href="https://dev.w3.org/html5/spec-LC/" title="HTML5"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/" title="CSS3"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/" title="Git Version Control System"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://getbootstrap.com/" title="Bootstrap"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a> <a href="https://daringfireball.net/projects/markdown/" title="Markdown Language"><img height="50" alt="MarkDown" src="https://cdn.simpleicons.org/Markdown/ffffff"></a>
 
 ## 🤺 Tools
-<a href="https://code.visualstudio.com/"><img width="50" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/"><img width="50" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a> <a href="https://stackedit.io/"><img width="50" alt="StackEdit" src="https://cdn.simpleicons.org/StackEdit/FF8A00"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="45" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/" title="Canva"><img height="45" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a> <a href="https://jbt.github.io/markdown-editor/" title="GitHub Markdown Editor" ><img height="50" alt="GitHub Markdown Editor" src="https://jbt.github.io/markdown-editor/favicon.png"></a>
 
 
 ## 👀 Platforms <a name="linkedin"></a>
@@ -32,7 +32,7 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 
 
 ## 🖼️ Certificates
-<a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img width="150" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a>
+<a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img height="130" align="center" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a> <a title="Learning Markdown" href="https://www.linkedin.com/learning/certificates/1466a205884b6aee637de9c99d67b5857596347f35c6085a0666fb97b43839ca"><img height="130" alt="Learning Markdown" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8CXXWDUqbmDhAAYtxw5C2UD0mDnqag7Xp58UdoutX90uYfBpMseR7AzwS7b3qf-2Sxqce2gG-SoMYRqHjhP-P-FPCC5TlOyznTqRJ_UMkqkdYxqg-OdRACpVBoGYDoGgoZmPriu5laJWvToB896w0wMWA=w1467-h1124-no?authuser=0"></a> 
 
 
 ## 🐯 Moods in General:
