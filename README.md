@@ -8,10 +8,21 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 
 > ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
 
-<section align="left"> 
-<a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" height="250" alt="WeCanCodeIt"></a> 
-<a href="https://github.com/HulyaMartli/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura"></a> </section>
+---
 
+<section align="center">
+<a href="https://github.com/HulyaMartli/github-readme-stats"> <img style="width: 25%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura"></a> <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 35%;" alt="WeCanCodeIt"></a> <img alt="HulyaMartli's GitHub stats" style="width: 35%;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura">
+</section> 
+
+---
+
+<section align="center">
+  
+![snake gif](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
+  
+</section>
+
+---
 
 ## :space_invader: Tech Stack
 <a href="https://dev.w3.org/html5/spec-LC/" title="HTML5"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/" title="CSS3"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/" title="Git Version Control System"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://getbootstrap.com/" title="Bootstrap"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a> <a href="https://daringfireball.net/projects/markdown/" title="Markdown Language"><img height="50" alt="MarkDown" src="https://cdn.simpleicons.org/Markdown/ffffff"></a>
@@ -53,9 +64,6 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 - 🤓 I’m learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
 - 🗨️ You can always poke me from [my Discord](https://discordapp.com/users/698121863057899531) about anything related to coding, technology, etc., or just for chit-chat. 🧡
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![snake gif](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
-
 
 ### 🤹🏻‍♀️ **Fun Fact About My Nickname** ***"Guerillagi"***
 When I meet someone new, one of the questions they first ask is why my nickname is *Guerillagi* all over the place and what it means. So I wanted to add it here as a fun fact.
@@ -69,4 +77,4 @@ But it is special because my nickname means something significant to me, and it 
 ## Sources
 
 - We Can Code It Woman visual - [Girls Who Code T-Shirt | Anny Chen](https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt).
-- [Most Used Languages Stat](https://github.com/anuraghazra/github-readme-stats#top-languages-card) by [anuraghazra](https://github.com/anuraghazra)
+- [Most Used Languages](https://github.com/anuraghazra/github-readme-stats#top-languages-card) & [GitHub Stats](https://github.com/anuraghazra/github-readme-stats#github-stats-card) by [anuraghazra](https://github.com/anuraghazra)
