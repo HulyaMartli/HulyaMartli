@@ -32,16 +32,15 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 
 
 ## 👀 Platforms <a name="platforms"></a>
-<section align="center">
-  <a href="https://www.linkedin.com/in/hulyamartli/"><img width="120px" align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.codecademy.com/profiles/Guerillagi"><img width="115px" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8CmGE35HKAe5JIOCArou2vK_1iz9_d70SO4Zvldc2j1UgChHlCsvXCrL3G9gevZIME2tO5xY05i15602l2g6y1IrO10FUEv6yptFHZvKwFinNxuMy_SlA7YcDa5qfMcU2g6ITWtxvJFzoCQxqzYcqr80Q=w1130-h308-no?authuser=0" alt="CodeCademy"></a>
-  <a href="https://app.patika.dev/hulyamartli"><img align="center" src="https://camo.githubusercontent.com/29e9bbcb9ee17b418dd900b2a87b4325c1e4a231dfdc04fd8c23687f91a22958/68747470733a2f2f676c6f62616c2d75706c6f6164732e776562666c6f772e636f6d2f3630393765306563613165383735353764613033316665662f3630393835396131393161626535643634623137666564335f506174696b612532306c6f676f2e706e67" alt="Hulya Martli | Patika.dev" width="80px" data-canonical-src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" style="max-width: 100%;"></a><a href="https://app.patika.dev/hulyamartli"><img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif" align="center" width="30px" alt="CoolDoge"></a>
-  <a href="https://www.freecodecamp.org/Guerillagi"><img width="160px" align="center" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Badge"></a>
-  <a href="https://www.sololearn.com/profile/25684479"><img align="center" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"></a>
-  <a href="https://www.behance.net/guerillagi"><img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
-  <a href="https://www.instagram.com/guerillagi/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-  <a href="mailto:hulyamartli@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
- </section>
+  <a href="https://www.linkedin.com/in/hulyamartli/"><img width="120px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.codecademy.com/profiles/Guerillagi"><img width="115px"  src="https://lh3.googleusercontent.com/pw/AMWts8CmGE35HKAe5JIOCArou2vK_1iz9_d70SO4Zvldc2j1UgChHlCsvXCrL3G9gevZIME2tO5xY05i15602l2g6y1IrO10FUEv6yptFHZvKwFinNxuMy_SlA7YcDa5qfMcU2g6ITWtxvJFzoCQxqzYcqr80Q=w1130-h308-no?authuser=0" alt="CodeCademy"></a>
+  <a href="https://app.patika.dev/hulyamartli"><img src="https://lh3.googleusercontent.com/pw/AMWts8AeEHyh9kNBKH0zVooN1R5TgbO1isxV7Xv7AR6iGEsiMHI89czrpN5aSss_M-XqTFSvLEILisZMZHODxrB4CB9LnafYrwfnr2XZkF2c2MZh_bJijeIme2rnWAgnS6iI4sDBcJL0c_olvSgCPLQZJhOk4Q=w607-h245-no?authuser=0" alt="Hulya Martli | Patika.dev" height="30px"></a><a href="https://app.patika.dev/hulyamartli"><img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif" width="30px" alt="CoolDoge"></a>
+  <a href="https://www.freecodecamp.org/Guerillagi"><img width="160px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Badge"></a>
+  <a href="https://www.sololearn.com/profile/25684479"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"></a>
+  <a href="https://www.behance.net/guerillagi"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
+  <a href="https://www.instagram.com/guerillagi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+  <a href="mailto:hulyamartli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+
 
 
 ## 🖼️ Certificates
@@ -49,7 +48,7 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 
 
 ## 🐯 Moods in General:
-<section align="center">
+<section align="left">
   <img src="https://media.giphy.com/media/rZs9PopYqrHonzk9aM/giphy-downsized-large.gif" height="200" alt="MicromanagementCat">
   <img src="https://media.giphy.com/media/SqmaAe6x2stZC/giphy.gif" height="200" alt="FuckThisCat">
   <img src="https://c.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" height="200" alt="AngryComputerCat"><br>
