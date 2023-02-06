@@ -33,8 +33,8 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="45" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/" title="Canva"><img height="45" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a> <a href="https://jbt.github.io/markdown-editor/" title="GitHub Markdown Editor" ><img height="50" alt="GitHub Markdown Editor" src="https://jbt.github.io/markdown-editor/favicon.png"></a>
 
 # 👀 Platforms <a name="platforms"></a>
-  <a href="https://www.linkedin.com/in/hulyamartli/"><img width="120px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.codecademy.com/profiles/Guerillagi"><img width="115px"  src="https://lh3.googleusercontent.com/pw/AMWts8CmGE35HKAe5JIOCArou2vK_1iz9_d70SO4Zvldc2j1UgChHlCsvXCrL3G9gevZIME2tO5xY05i15602l2g6y1IrO10FUEv6yptFHZvKwFinNxuMy_SlA7YcDa5qfMcU2g6ITWtxvJFzoCQxqzYcqr80Q=w1130-h308-no?authuser=0" alt="CodeCademy"></a>
+  <a href="https://www.linkedin.com/in/hulyamartli/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.codecademy.com/profiles/Guerillagi"><img width="110px"  src="https://lh3.googleusercontent.com/pw/AMWts8CmGE35HKAe5JIOCArou2vK_1iz9_d70SO4Zvldc2j1UgChHlCsvXCrL3G9gevZIME2tO5xY05i15602l2g6y1IrO10FUEv6yptFHZvKwFinNxuMy_SlA7YcDa5qfMcU2g6ITWtxvJFzoCQxqzYcqr80Q=w1130-h308-no?authuser=0" alt="CodeCademy"></a>
   <a href="https://app.patika.dev/hulyamartli"><img src="https://lh3.googleusercontent.com/pw/AMWts8AeEHyh9kNBKH0zVooN1R5TgbO1isxV7Xv7AR6iGEsiMHI89czrpN5aSss_M-XqTFSvLEILisZMZHODxrB4CB9LnafYrwfnr2XZkF2c2MZh_bJijeIme2rnWAgnS6iI4sDBcJL0c_olvSgCPLQZJhOk4Q=w607-h245-no?authuser=0" alt="Hulya Martli | Patika.dev" height="30px"></a><a href="https://app.patika.dev/hulyamartli"><img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif" width="30px" alt="CoolDoge"></a>
   <a href="https://www.freecodecamp.org/Guerillagi"><img width="160px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Badge"></a>
   <a href="https://www.sololearn.com/profile/25684479"><img src="https://img.shields.io/badge/-Sololearn-FFA310?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"></a>
@@ -51,7 +51,7 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 # 🏃🏻‍♀️💨 What am I up to these days?
 - 👩🏻‍💻 I’m currently working on Responsive Web Design.
 - 🤓 I’m learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
-- 🗨️ You can always poke me from <a href="#platforms">Discord</a>- or any other platform fits you- about anything related to coding, technology, etc., or just for chit-chat. 🧡
+- 🗨️ You can always poke me from <a href="#platforms">Discord</a> - or any other platform fits you - about anything related to coding, technology, etc., or just for chit-chat. 🧡
 
 # 😶‍🌫️ Personal
 
