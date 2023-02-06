@@ -1,6 +1,6 @@
 Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
 
-I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through design and coding. I generally gained experience in the management area; that was the path life offered me at that time. Still, I also worked in the tech business for 2 years, assisting customers and teams with technical support, content publishing, translation, and management. So, I was fortunately involved with technology. You can always check my <a href="#linkedin">LinkedIn profile</a> for more details.
+I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through design and coding. I generally gained experience in the management area; that was the path life offered me at that time. Still, I also worked in the tech business for 2 years, assisting customers and teams with technical support, content publishing, translation, and management. So, I was fortunately involved with technology. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
 
 Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and code to death kind of period!
 
@@ -8,8 +8,10 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 
 > ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
 
-<section align="center"> 
-<a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" width="250" alt="WeCanCodeIt"></a></section>
+<section align="left"> 
+<a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" height="250" alt="WeCanCodeIt"></a> 
+<a href="https://github.com/HulyaMartli/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura"></a> </section>
+
 
 ## :space_invader: Tech Stack
 <a href="https://dev.w3.org/html5/spec-LC/" title="HTML5"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/" title="CSS3"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/" title="Git Version Control System"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://getbootstrap.com/" title="Bootstrap"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a> <a href="https://daringfireball.net/projects/markdown/" title="Markdown Language"><img height="50" alt="MarkDown" src="https://cdn.simpleicons.org/Markdown/ffffff"></a>
@@ -18,7 +20,7 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="45" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://www.canva.com/" title="Canva"><img height="45" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a> <a href="https://jbt.github.io/markdown-editor/" title="GitHub Markdown Editor" ><img height="50" alt="GitHub Markdown Editor" src="https://jbt.github.io/markdown-editor/favicon.png"></a>
 
 
-## 👀 Platforms <a name="linkedin"></a>
+## 👀 Platforms <a name="platforms"></a>
 <section align="center">
   <a href="https://www.linkedin.com/in/hulyamartli/"><img width="120px" align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.codecademy.com/profiles/Guerillagi"><img width="115px" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8CmGE35HKAe5JIOCArou2vK_1iz9_d70SO4Zvldc2j1UgChHlCsvXCrL3G9gevZIME2tO5xY05i15602l2g6y1IrO10FUEv6yptFHZvKwFinNxuMy_SlA7YcDa5qfMcU2g6ITWtxvJFzoCQxqzYcqr80Q=w1130-h308-no?authuser=0" alt="CodeCademy"></a>
@@ -49,7 +51,7 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 ## 🏃🏻‍♀️💨 What am I up to these days?
 - 👩🏻‍💻 I’m currently working on Responsive Web Design.
 - 🤓 I’m learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
-- 🗨️ You can always poke me from <a href="https://discordapp.com/users/698121863057899531">my Discord</a> about anything related to coding, technology, etc., or just for chit-chat. 🧡
+- 🗨️ You can always poke me from [my Discord](https://discordapp.com/users/698121863057899531) about anything related to coding, technology, etc., or just for chit-chat. 🧡
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![snake gif](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
@@ -66,4 +68,5 @@ But it is special because my nickname means something significant to me, and it 
 
 ## Sources
 
-- We Can Code It Woman visual - <a href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt">Girls Who Code T-Shirt | Anny Chen</a>.
+- We Can Code It Woman visual - [Girls Who Code T-Shirt | Anny Chen](https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt).
+- [Most Used Languages Stat](https://github.com/anuraghazra/github-readme-stats#top-languages-card) by [anuraghazra](https://github.com/anuraghazra)
