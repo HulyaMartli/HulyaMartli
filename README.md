@@ -41,6 +41,9 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
   <a href="https://www.behance.net/guerillagi"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"></a>
   <a href="https://www.instagram.com/guerillagi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
   <a href="mailto:hulyamartli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="https://discordapp.com/users/698121863057899531"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
+  <a href="https://steamcommunity.com/profiles/76561198885694908/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"></a>
+  
 
 # 🖼️ Certificates
 <a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img height="130" align="center" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a> <a title="Learning Markdown" href="https://www.linkedin.com/learning/certificates/1466a205884b6aee637de9c99d67b5857596347f35c6085a0666fb97b43839ca"><img height="130" alt="Learning Markdown" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8CXXWDUqbmDhAAYtxw5C2UD0mDnqag7Xp58UdoutX90uYfBpMseR7AzwS7b3qf-2Sxqce2gG-SoMYRqHjhP-P-FPCC5TlOyznTqRJ_UMkqkdYxqg-OdRACpVBoGYDoGgoZmPriu5laJWvToB896w0wMWA=w1467-h1124-no?authuser=0"></a> <a title="CS Principles: Digital Information" href="https://www.linkedin.com/learning/certificates/d17fbdf8929d2374340bdedaf0222c59dc1e71423a3b589fe5fd5c8dba7922c7"><img height="130" alt="CS Principles: Digital Information" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8D-A3newhpCwMTBAv1DvxZk7LARLdyOSMVHGfr_lpOPvFvHJm2yXMAJC-G5F_pMiVKFBxdWefo8Ek9YsY2SmwaQTf6PjGTBD_jWlf4hLylauE9NJGFn9Mrc4CRvrNC1NTf8p3fq3K7LqBg94cKee2ggaQ=w1471-h1127-no?authuser=0"></a>
@@ -48,7 +51,7 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 # 🏃🏻‍♀️💨 What am I up to these days?
 - 👩🏻‍💻 I’m currently working on Responsive Web Design.
 - 🤓 I’m learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
-- 🗨️ You can always poke me from [my Discord](https://discordapp.com/users/698121863057899531) about anything related to coding, technology, etc., or just for chit-chat. 🧡
+- 🗨️ You can always poke me from <a href="#platforms">Discord</a>- or any other platform fits you- about anything related to coding, technology, etc., or just for chit-chat. 🧡
 
 # 😶‍🌫️ Personal
 
