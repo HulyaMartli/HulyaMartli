@@ -1,15 +1,17 @@
+<section align="center">
+
 # Hulya | Guerillagi | Hulu
 
 Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
 
 I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬 but I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through art and programming. I generally gained experience in the management departments; that was the path life offered me at that time. Still, I worked in the art/architecture business for 2.5 years assisting both art gallery and architecture offices of the same company; and worked in the tech business for 2 years, assisting customers and teams with technical support, content publishing, translation, organization and management. So, I was fortunately involved with both art and tech throughout these years. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
 
-Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and code to death kind of period!
+Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and code to death kind of period! I am currently a Student Software Developer at Bilge Adam Boost Program (Java) and a Frontend Developer Trainee at Brainnest FD Program!
 
 The best quote explains why I want to be a top-shelf Front-end Developer:
 
 > ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
-
+</section> 
 ---
 
 <section align="center">
@@ -25,12 +27,13 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 </section>
 
 ---
+<section align="center">
 
 # :space_invader: Tech Stack
-<a href="https://dev.w3.org/html5/spec-LC/" title="HTML5"><img height="50" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/" title="CSS3"><img height="50" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/" title="Git Version Control System"><img height="50" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://daringfireball.net/projects/markdown/" title="Markdown Language"><img height="50" alt="MarkDown" src="https://cdn.simpleicons.org/Markdown/ffffff"></a>
+<a href="https://www.oracle.com/java/" title="Java"><img height="50" alt="Java"  src="https://user-images.githubusercontent.com/66822245/225925696-c9d94b55-84ad-4b1c-89c8-618587aa87f0.png"><a href="https://dev.w3.org/html5/spec-LC/" title="HTML5"><img height="40" alt="HTML5"  src="https://user-images.githubusercontent.com/66822245/209410789-2e3d60d2-35d8-439a-9139-4345b0239f28.png"></a> <a href="https://www.css3.com/" title="CSS3"><img height="40" alt="CSS3" src="https://user-images.githubusercontent.com/66822245/209416713-aa474734-d6cc-48f1-961c-3c3b792ca9a3.png"></a> <a href="https://git-scm.com/" title="Git Version Control System"><img height="40" alt="Git" src="https://user-images.githubusercontent.com/66822245/210183598-3371cb3b-01a9-4eb0-b23e-1ad732e8cdea.png"></a> <a href="https://daringfireball.net/projects/markdown/" title="Markdown Language"><img height="40" alt="MarkDown" src="https://cdn.simpleicons.org/Markdown/ffffff"></a>
 
 # 🤺 Tools
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="45" alt="VisualStudioCode" src="https://cdn.simpleicons.org/visualstudiocode/7952B3"></a> <a href="https://wordpress.com/" title="WordPress"><img height="45" alt="WordPress" src="https://cdn.simpleicons.org/Wordpress/21759B"></a> <a href="https://www.wix.com/" title="Wix"><img height="45" alt="Wix" src="https://cdn.simpleicons.org/Wix/0C6EFC"></a> <a href="https://www.canva.com/" title="Canva"><img height="45" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a> <a href="https://jbt.github.io/markdown-editor/" title="GitHub Markdown Editor" ><img height="50" alt="GitHub Markdown Editor" src="https://jbt.github.io/markdown-editor/favicon.png"></a>
+<a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"><img height="47" alt="Eclipse IDE" src="https://user-images.githubusercontent.com/66822245/225932023-dedfc179-261c-42cd-b71a-a8e5be0a5215.png"></a><a href="https://www.eclipse.org/ide/" title="Eclipse IDE"><img height="40" alt="Eclipse IDE" src="https://cdn.simpleicons.org/eclipseide/F7941E"></a> <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="40" alt="Visual Studio Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC"></a> <a href="http://www.flowgorithm.org/" title="Flowgorithm"><img height="40" alt="Flowgorithm" src="http://flowgorithm.altervista.org/wp-content/uploads/2019/03/flowgorithm-logo-original-1.png"></a> <a href="https://draw.io/" title="Draw.io"><img height="40" alt="Draw.io" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/2048px-Diagrams.net_Logo.svg.png"></a> <a href="https://wordpress.com/" title="WordPress"><img height="40" alt="WordPress" src="https://cdn.simpleicons.org/Wordpress/21759B"></a> <a href="https://www.wix.com/" title="Wix"><img height="40" alt="Wix" src="https://cdn.simpleicons.org/Wix/0C6EFC"></a> <a href="https://www.canva.com/" title="Canva"><img height="40" alt="Canva" src="https://cdn.simpleicons.org/canva/00C4CC"></a>
 
 # 👀 Platforms <a name="platforms"></a>
   <a href="https://www.linkedin.com/in/hulyamartli/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -47,16 +50,21 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 
 # 🖼️ Certificates
 <a href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img height="130" align="center" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a> <a title="Learning Markdown" href="https://www.linkedin.com/learning/certificates/1466a205884b6aee637de9c99d67b5857596347f35c6085a0666fb97b43839ca"><img height="130" alt="Learning Markdown" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8CXXWDUqbmDhAAYtxw5C2UD0mDnqag7Xp58UdoutX90uYfBpMseR7AzwS7b3qf-2Sxqce2gG-SoMYRqHjhP-P-FPCC5TlOyznTqRJ_UMkqkdYxqg-OdRACpVBoGYDoGgoZmPriu5laJWvToB896w0wMWA=w1467-h1124-no?authuser=0"></a> <a title="CS Principles: Digital Information" href="https://www.linkedin.com/learning/certificates/d17fbdf8929d2374340bdedaf0222c59dc1e71423a3b589fe5fd5c8dba7922c7"><img height="130" alt="CS Principles: Digital Information" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8D-A3newhpCwMTBAv1DvxZk7LARLdyOSMVHGfr_lpOPvFvHJm2yXMAJC-G5F_pMiVKFBxdWefo8Ek9YsY2SmwaQTf6PjGTBD_jWlf4hLylauE9NJGFn9Mrc4CRvrNC1NTf8p3fq3K7LqBg94cKee2ggaQ=w1471-h1127-no?authuser=0"></a> <a title="CS Principles: The Internet" href="https://www.linkedin.com/learning/certificates/0ccc5940f74f0770349e5eb6aa5ab23769db6fa78c184d1a19c1634a356b0056"><img height="130" alt="CS Principles: The Internet" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8C6ShDy5RrOdyjC-UT4ljSjIaFamExlFsm7HBEOTCPWeP_sj7PDE43HUr3r8CnOqbotSFXIcq0LHiteUcUJFsUPXsxJctjgYnkWRJMtzg-E_CgJKrGACSl_C76s8PaLXQtWvYOz7pSUdlDpeHIHwKeW1Q=w1460-h1120-no?authuser=0"></a>
+</section>
+
+---
 
 # 🏃🏻‍♀️💨 What am I up to these days?
-- 👩🏻‍💻 I’m currently working on Responsive Web Design.
-- 🤓 I’m learning HTML5, CSS3, Bootstrap, Javascript and a little bit Python on the side.
+- 👩🏻‍💻 I’m currently working on Java/Algorithms-Math Problems and Responsive Web Design.
+- 🤓 I’m learning Information Technologies, Algorithms, SDLC, Project Management Methodologies/SCRUM, Java Foundation, IDEs, Data Structures, HTML, CSS, JavaScript-jQuery, Bootstrap and a little bit Python on the side.
 - 🗨️ You can always poke me from <a href="#platforms">Discord</a> - or any other platform fits you - about anything related to coding, technology, etc., or just for chit-chat. 🧡
+
+---
 
 # 😶‍🌫️ Personal
 
 ## 🐯 Moods in General:
-<section align="left">
+<section align="center">
   <img src="https://media.giphy.com/media/rZs9PopYqrHonzk9aM/giphy-downsized-large.gif" height="200" alt="MicromanagementCat">
   <img src="https://media.giphy.com/media/SqmaAe6x2stZC/giphy.gif" height="200" alt="FuckThisCat">
   <img src="https://c.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" height="200" alt="AngryComputerCat"><br>
