@@ -12,6 +12,7 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 
 > ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
 </section> 
+
 ---
 
 <section align="center">
