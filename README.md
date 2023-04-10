@@ -6,7 +6,7 @@ Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44
 
 I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through art and programming. I generally gained experience in the management departments; that was the path life offered me at that time. Still, I worked in the art/architecture business for 2.5 years assisting both art gallery and architecture offices of the same company; and worked in the tech business for 2 years, assisting customers and teams with technical support, content publishing, translation, organization and management. So, I was fortunately involved with both art and tech throughout these years. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
 
-Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and code to death kind of period! I am currently a Student Software Developer at Bilge Adam Boost Program (Java) and a Frontend Developer Trainee at Brainnest FD Program!
+Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and code to death kind of period! I am currently a Student Java Developer at Bilge Adam Boost Program and a Student Frontend Developer at Brainnest FD Program!
 
 The best quote explains why I want to be a top-shelf Front-end Developer:
 
