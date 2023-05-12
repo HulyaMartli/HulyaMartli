@@ -56,8 +56,8 @@ The best quote explains why I want to be a top-shelf Front-end Developer:
 ---
 
 # 🏃🏻‍♀️💨 What am I up to these days?
-- 👩🏻‍💻 I’m currently working on Java/Algorithms-Math Problems and Responsive Web Design.
-- 🤓 I’m learning Information Technologies, Algorithms, SDLC, Project Management Methodologies/SCRUM, IDEs, Data Structures, OOP with Java in depth, and Frontend Development (HTML, CSS, JavaScript-jQuery, Bootstrap).
+- 👩🏻‍💻 I’m currently working on OOP with Java, SOLID Principles and Responsive Web Design with HTML5, CSS3 and JavaScript.
+- 🤓 I’m learning Information Technologies, Algorithms, SDLC, Project Management Methodologies/SCRUM, IDEs, Data Structures, OOP with Java, SOLID Principles and Frontend Development (HTML, CSS, JavaScript-jQuery, Bootstrap).
 - 🗨️ You can always poke me from <a href="#platforms">Discord</a> - or any other platform fits you - about anything related to coding, technology, etc., or just for chit-chat. 🧡
 
 ---
