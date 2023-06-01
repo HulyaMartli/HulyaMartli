@@ -4,14 +4,17 @@
 
 Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
 
-I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through art and programming. I generally gained experience in the management departments; that was the path life offered me at that time. Still, I worked in the art/architecture business for 2.5 years assisting both art gallery and architecture offices of the same company; and worked in the tech business for 2 years, assisting customers and teams with technical support, content publishing, translation, organization and management. So, I was fortunately involved with both art and tech throughout these years. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
+I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through art and programming. I generally gained experience in the management area; that was the path life offered me at that time. Still, I worked in the art/architecture business for 2.5 years, assisting both the art gallery and architecture offices of the same company, and worked in the tech business for 2 years, helping customers and teams with technical support, content publishing, translation, organization, and management. So, I was fortunately involved with both art and tech throughout these years. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
 
-Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and code to death kind of period! I am currently a Student Java Developer at Bilge Adam Boost Program and a Student Frontend Developer at Brainnest FD Program!
+Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and a code-to-death kind of period! I am currently a Student Full-Stack Developer at Bilge Adam Boost Program.
 
-The best quote explains why I want to be a top-shelf Front-end Developer:
+I define myself as a UI/UX design and Frontend Development Enthusiast, and the best quote that explains why I love Front-end Development is:
 
 > ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
+  
+But I also love problem-solving and digging deep into details on the connection between Front-end and Back-end Development, its logic, and the variety of technologies I can learn. That's why I decided to and am trying to be a Full-Stack Developer! 
 </section> 
+
 
 ---
 
