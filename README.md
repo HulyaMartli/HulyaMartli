@@ -2,6 +2,12 @@
 
 # Hulya | Guerillagi | Hulu
 
+<section align="center">
+<a href="https://github.com/HulyaMartli?tab=repositories"> <img style="width: 25%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura"></a> <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 35%;" alt="WeCanCodeIt"></a> <a href="https://github-readme-stats.vercel.app/api?username=HulyaMartli"><img alt="HulyaMartli's GitHub stats" style="width: 35%;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura"></a>
+</section> 
+
+---
+  
 Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
 
 I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻 rather than pursuing engineering. Thus, I am trying to explore ways to express myself through art and programming. I generally gained experience in the management area; that was the path life offered me at that time. Still, I worked in the art/architecture business for 2.5 years, assisting both the art gallery and architecture offices of the same company, and worked in the tech business for 2 years, helping customers and teams with technical support, content publishing, translation, organization, and management. So, I was fortunately involved with both art and tech throughout these years. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
@@ -13,13 +19,6 @@ I define myself as a UI/UX design and Frontend Development Enthusiast, and the b
 > ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
   
 But I also love problem-solving and digging deep into details on the connection between Front-end and Back-end Development, its logic, and the variety of technologies I can learn. That's why I decided to and am trying to be a Full-Stack Developer! 
-</section> 
-
-
----
-
-<section align="center">
-<a href="https://github.com/HulyaMartli?tab=repositories"> <img style="width: 25%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura"></a> <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 35%;" alt="WeCanCodeIt"></a> <a href="https://github-readme-stats.vercel.app/api?username=HulyaMartli"><img alt="HulyaMartli's GitHub stats" style="width: 35%;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura"></a>
 </section> 
 
 ---
