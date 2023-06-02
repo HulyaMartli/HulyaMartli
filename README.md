@@ -40,6 +40,7 @@ But I also love problem-solving and digging deep into details on the connection 
 
 # 👀 Platforms <a name="platforms"></a>
   <a href="https://www.linkedin.com/in/hulyamartli/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.hackerrank.com/hulyamartli"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"></a>
   <a href="https://www.codecademy.com/profiles/Guerillagi"><img width="110px"  src="https://lh3.googleusercontent.com/pw/AMWts8CmGE35HKAe5JIOCArou2vK_1iz9_d70SO4Zvldc2j1UgChHlCsvXCrL3G9gevZIME2tO5xY05i15602l2g6y1IrO10FUEv6yptFHZvKwFinNxuMy_SlA7YcDa5qfMcU2g6ITWtxvJFzoCQxqzYcqr80Q=w1130-h308-no?authuser=0" alt="CodeCademy"></a>
   <a href="https://app.patika.dev/hulyamartli"><img src="https://lh3.googleusercontent.com/pw/AMWts8AeEHyh9kNBKH0zVooN1R5TgbO1isxV7Xv7AR6iGEsiMHI89czrpN5aSss_M-XqTFSvLEILisZMZHODxrB4CB9LnafYrwfnr2XZkF2c2MZh_bJijeIme2rnWAgnS6iI4sDBcJL0c_olvSgCPLQZJhOk4Q=w607-h245-no?authuser=0" alt="Hulya Martli | Patika.dev" height="30px"></a><a href="https://app.patika.dev/hulyamartli"><img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/cool-doge.gif" width="30px" alt="CoolDoge"></a>
   <a href="https://www.freecodecamp.org/Guerillagi"><img width="160px" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Badge"></a>
