@@ -22,14 +22,6 @@ But I also love problem-solving and digging deep into details on the connection 
 </section> 
 
 ---
-
-<section align="center">
-  
-![snake gif](https://github.com/hulyamartli/hulyamartli/blob/output/github-contribution-grid-snake.svg)
-  
-</section>
-
----
 <section align="center">
 
 # :space_invader: Tech Stack
