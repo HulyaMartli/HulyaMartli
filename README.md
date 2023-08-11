@@ -3,7 +3,7 @@
 # Hulya | Guerillagi | Hulu
 
 <section align="center">
-<a href="https://github.com/HulyaMartli?tab=repositories"> <img style="width: 25%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura"></a> <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 35%;" alt="WeCanCodeIt"></a> <a href="https://github-readme-stats.vercel.app/api?username=HulyaMartli"><img alt="HulyaMartli's GitHub stats" style="width: 35%;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura"></a>
+<img style="width: 25%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura"> <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 35%;" alt="WeCanCodeIt"></a> <a href="https://github-readme-stats.vercel.app/api?username=HulyaMartli"><img alt="HulyaMartli's GitHub stats" style="width: 35%;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura"></a>
 </section> 
 
 ---
