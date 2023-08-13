@@ -1,13 +1,12 @@
 <section align="center">
-
-# Hulya | Guerillagi | Hulu
-
-<section align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura" title="Top Used Languages"><img style="width: 25%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura" alt="Top Used Languages"></a> <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 35%;" alt="WeCanCodeIt"></a> <a href="https://github-readme-stats.vercel.app/api?username=HulyaMartli" title="GitHub Stats"><img alt="GitHub Stats" style="width: 35%;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura"></a>
+  <h1> Hulya | Guerillagi | Hulu</h1>
+  <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 310px;" alt="WeCanCodeIt"></a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura" title="Top Used Languages"><img style="width: 290px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura" alt="Top Used Languages"></a> 
+  
+  <a title="Streak Stats" href="https://github-readme-streak-stats.herokuapp.com/?user=hulyamartli&theme=aura"><img style="height: 120px;"  alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hulyamartli&theme=aura"></a>  <a href="https://github-readme-stats.vercel.app/api?username=HulyaMartli" title="GitHub Stats"><img alt="GitHub Stats" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura"></a> 
 </section> 
 
 ---
-  
+<section align="center">  
 Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" width="30">
 
 I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and through my career journey, I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻. Thus, I am exploring ways to express myself through art and programming. I generally gained experience in the management area; that was the path life offered me at that time. Still, I worked in the art/architecture business for 2.5 years, assisting both the art gallery and architecture offices of the same company, and worked in the tech business for 2 years, helping customers and teams with technical support, content publishing, translation, organization, and management. So, I was fortunately involved with both art and tech throughout these years. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
