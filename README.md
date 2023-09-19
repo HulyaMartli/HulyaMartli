@@ -55,7 +55,7 @@ But I also love problem-solving and digging deep into details on the connection 
 ---
 
 # 🏃🏻‍♀️💨 What am I up to these days?
-- 👩🏻‍💻 I’m currently working on Spring Framework/ Spring Boot, Micro Services, RestAPIs - Responsive Web Design with HTML5, CSS3, JavaScript, and React.
+- 👩🏻‍💻 I’m currently working on Spring Framework/ Spring Boot, Micro Services, RestAPIs - Responsive Web Design with HTML5, CSS3, JavaScript, JSX and React.
 - 🗨️ You can always poke me from <a href="#platforms">Discord</a> - or any other platform fits you - about anything related to coding, technology, etc., or just for chit-chat. 🧡
 
 ---
