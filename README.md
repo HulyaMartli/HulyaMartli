@@ -1,5 +1,5 @@
 <section align="center">
-  <h1> Hulya | Guerillagi | Hulu</h1>
+  <h1> Hülya | Guerillagi | Hülü</h1>
   <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 310px;" alt="WeCanCodeIt"></a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura" title="Top Used Languages"><img style="width: 290px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura" alt="Top Used Languages"></a> 
   
   <a title="Streak Stats" href="https://github-readme-streak-stats.herokuapp.com/?user=hulyamartli&theme=aura"><img style="height: 120px;"  alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hulyamartli&theme=aura"></a>  <a href="https://github-readme-stats.vercel.app/api?username=HulyaMartli" title="GitHub Stats"><img alt="GitHub Stats" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura"></a> 
