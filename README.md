@@ -11,7 +11,7 @@ Hey there!
 
 I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and through my career journey, I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻. Thus, I am exploring ways to express myself through art and programming. I generally gained experience in the management area; that was the path life offered me at that time. Still, I worked in the art/architecture business for 2.5 years, assisting both the art gallery and architecture offices of the same company, and worked in the tech business for 2 years, helping customers and teams with technical support, content publishing, translation, organization, and management. So, I was fortunately involved with both art and tech throughout these years. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
 
-Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and a code-to-death kind of period! I am currently a Student Full-Stack Developer at Bilge Adam Boost Program.
+Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and a code-to-death kind of period! I recently graduated from at Bilge Adam Boost - Full-Stack Developer Program and completed my internship as a Jr. Frontend Developer working on the live project of BilgeAdam Student Portal (React - JavaScript/TypeScript - Tailwind.CSS).
 
 I define myself as a UI/UX design and Frontend Development Enthusiast, and the best quote that explains why I love Front-end Development is:
 
