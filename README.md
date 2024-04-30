@@ -7,11 +7,11 @@
 
 ---
 <section align="center">  
-Hey there!
+Hey!
 
-I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and through my career journey, I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻. Thus, I am exploring ways to express myself through art and programming. I generally gained experience in the management area; that was the path life offered me at that time. Still, I worked in the art/architecture business for 2.5 years, assisting both the art gallery and architecture offices of the same company, and worked in the tech business for 2 years, helping customers and teams with technical support, content publishing, translation, organization, and management. So, I was fortunately involved with both art and tech throughout these years. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
+I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and through my career journey in art, architecture, and tech industries, I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻. Thus, I am exploring ways to express myself through art and programming. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
 
-Nowadays, I am all about learning something new, and I am in a career transition full of excitement, constant learning, and a code-to-death kind of period! I recently graduated from at Bilge Adam Boost - Full-Stack Developer Program and completed my internship as a Jr. Frontend Developer working on the live project of BilgeAdam Student Portal (React - JavaScript/TypeScript - Tailwind.CSS).
+Nowadays, I am all about learning something new about the web technologies. I recently graduated from the Bilge Adam Boost - Full-Stack Developer Program and completed my internship as a Jr. Frontend Developer working on a live student portal project.
 
 I define myself as a UI/UX design and Frontend Development Enthusiast, and the best quote that explains why I love Front-end Development is:
 
@@ -50,7 +50,7 @@ But I also love problem-solving and digging deep into details on the connection 
   
 
 # 🖼️ Certificates
-<a title="Frontend Industry Training" href="https://www.linkedin.com/feed/update/urn:li:activity:7065326493777707008/"><img height="130" alt="Frontend Industry Training" align="center" src="https://lh3.googleusercontent.com/pw/AJFCJaWjeS3EOhCFczSMYMyJwnQB1qIHDSnO1xxsB-SvPIFI7EZAS9qQQt-oGOvTmNkECan5Td1Kj7lLwFgbc3yLye3_UllQ1dn1v7tueCYrUW14YAEklA1pBpIkFyMZPYZK0ucbl7SsfdifFiLWaLPuTlhnsg=w1080-h824-s-no?authuser=0"></a> <a title="CS Principles: Programming" href="https://www.linkedin.com/learning/certificates/9f82b25558fc0b3f7f1314a24a07fb3c1ebbb874d0c795b07b17693192f5081d"><img height="130" alt="CS Principles: Programming" align="center" src="https://lh3.googleusercontent.com/pw/AJFCJaX1JgqxnCV8ixl9V0ttiXTsiF__rABB6F9gJka0Iy70Ls2O1kDCFiUKBZ5I6uUaBC8YJscz1LwE_3J7ic_--dKeu9Flim7EI4eW0OI4rW-AIum96ShfeyiHNHcIZdB88JwSA-Ja078Dl0rg8xpGNoU-Eg=w823-h632-s-no?authuser=0"></a> <a title="CS Principles: The Internet" href="https://www.linkedin.com/learning/certificates/0ccc5940f74f0770349e5eb6aa5ab23769db6fa78c184d1a19c1634a356b0056"><img height="130" alt="CS Principles: The Internet" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8C6ShDy5RrOdyjC-UT4ljSjIaFamExlFsm7HBEOTCPWeP_sj7PDE43HUr3r8CnOqbotSFXIcq0LHiteUcUJFsUPXsxJctjgYnkWRJMtzg-E_CgJKrGACSl_C76s8PaLXQtWvYOz7pSUdlDpeHIHwKeW1Q=w1460-h1120-no?authuser=0"></a> 
+<a title="Full-Stack Development Training" href="https://www.linkedin.com/feed/update/urn:li:activity:7181625894057218049/"><img height="130" alt="Full-Stack Development Training" align="center" src="https://lh3.googleusercontent.com/pw/AP1GczNu2ClAmLyAXazbg1riEGxCOd4ektnrBINvm6F4wZUXH1NdiS5iy8pxIi1kXigN2murw7M8k-K0Vp8EiOSbarqkmkHXYYnV4te08qAMGrU5MP41YBYANzva-qrxjSTsXErdOw9UjqLalqtc_GqxeYpGiA=w1802-h1225-s-no-gm?authuser=0"></a> <a title="Frontend Industry Training" href="https://www.linkedin.com/feed/update/urn:li:activity:7065326493777707008/"><img height="130" alt="Frontend Industry Training" align="center" src="https://lh3.googleusercontent.com/pw/AJFCJaWjeS3EOhCFczSMYMyJwnQB1qIHDSnO1xxsB-SvPIFI7EZAS9qQQt-oGOvTmNkECan5Td1Kj7lLwFgbc3yLye3_UllQ1dn1v7tueCYrUW14YAEklA1pBpIkFyMZPYZK0ucbl7SsfdifFiLWaLPuTlhnsg=w1080-h824-s-no?authuser=0"></a> <a title="CS Principles: Programming" href="https://www.linkedin.com/learning/certificates/9f82b25558fc0b3f7f1314a24a07fb3c1ebbb874d0c795b07b17693192f5081d"><img height="130" alt="CS Principles: Programming" align="center" src="https://lh3.googleusercontent.com/pw/AJFCJaX1JgqxnCV8ixl9V0ttiXTsiF__rABB6F9gJka0Iy70Ls2O1kDCFiUKBZ5I6uUaBC8YJscz1LwE_3J7ic_--dKeu9Flim7EI4eW0OI4rW-AIum96ShfeyiHNHcIZdB88JwSA-Ja078Dl0rg8xpGNoU-Eg=w823-h632-s-no?authuser=0"></a> <a title="CS Principles: The Internet" href="https://www.linkedin.com/learning/certificates/0ccc5940f74f0770349e5eb6aa5ab23769db6fa78c184d1a19c1634a356b0056"><img height="130" alt="CS Principles: The Internet" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8C6ShDy5RrOdyjC-UT4ljSjIaFamExlFsm7HBEOTCPWeP_sj7PDE43HUr3r8CnOqbotSFXIcq0LHiteUcUJFsUPXsxJctjgYnkWRJMtzg-E_CgJKrGACSl_C76s8PaLXQtWvYOz7pSUdlDpeHIHwKeW1Q=w1460-h1120-no?authuser=0"></a> 
 
 <a title="CS Principles: Digital Information" href="https://www.linkedin.com/learning/certificates/d17fbdf8929d2374340bdedaf0222c59dc1e71423a3b589fe5fd5c8dba7922c7"><img height="130" alt="CS Principles: Digital Information" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8D-A3newhpCwMTBAv1DvxZk7LARLdyOSMVHGfr_lpOPvFvHJm2yXMAJC-G5F_pMiVKFBxdWefo8Ek9YsY2SmwaQTf6PjGTBD_jWlf4hLylauE9NJGFn9Mrc4CRvrNC1NTf8p3fq3K7LqBg94cKee2ggaQ=w1471-h1127-no?authuser=0"></a> <a title="Web Development Fundamentals" href="https://www.sololearn.com/certificates/CT-PMXFNYGH"><img height="130" width="170" align="center" alt="Web Development Fundamentals" src="https://lh3.googleusercontent.com/pw/AMWts8DbVQz5tp4bFaGfxiD3IbdbqqEmkdcL9wubNjH5IfVBpN4Iw2-RgtyXmRP07fy2L78YPt9kzbC3m5K7KKoNtSOK0DRE_a7pxQuHohZNlBRmC33ZkoeIb_mMm_Gg1uWodKJUvlDZo6uHyDuKjHhdpi1Wwg=w1657-h1170-no?authuser=0"></a> <a title="Learning Markdown" href="https://www.linkedin.com/learning/certificates/1466a205884b6aee637de9c99d67b5857596347f35c6085a0666fb97b43839ca"><img height="130" alt="Learning Markdown" align="center" src="https://lh3.googleusercontent.com/pw/AMWts8CXXWDUqbmDhAAYtxw5C2UD0mDnqag7Xp58UdoutX90uYfBpMseR7AzwS7b3qf-2Sxqce2gG-SoMYRqHjhP-P-FPCC5TlOyznTqRJ_UMkqkdYxqg-OdRACpVBoGYDoGgoZmPriu5laJWvToB896w0wMWA=w1467-h1124-no?authuser=0"></a>
 </section>
@@ -58,8 +58,8 @@ But I also love problem-solving and digging deep into details on the connection 
 ---
 
 # 🏃🏻‍♀️💨 What am I up to these days?
-- 👩🏻‍💻 I’m currently working on Spring Framework/ Spring Boot, Micro Services, RestAPIs - Responsive Web Design with HTML5, CSS3, JavaScript, JSX and React.
-- 🗨️ You can always poke me from <a href="#platforms">Discord</a> - or any other platform fits you - about anything related to coding, technology, etc., or just for chit-chat. 🧡
+- 👩🏻‍💻 I’m currently working on JavaScript, TypeScript, Next.js and React.
+- 🗨️ You can always poke me from <a href="#platforms">Discord</a> - or any other platform that fits you - about anything related to coding, technology, etc., or just for chit-chat. 🧡
 
 ---
 
@@ -67,9 +67,6 @@ But I also love problem-solving and digging deep into details on the connection 
 
 ## 🐯 Moods in General:
 <section align="center">
-  <img src="https://media.giphy.com/media/rZs9PopYqrHonzk9aM/giphy-downsized-large.gif" height="200" alt="MicromanagementCat">
-  <img src="https://media.giphy.com/media/SqmaAe6x2stZC/giphy.gif" height="200" alt="FuckThisCat">
-  <img src="https://c.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif" height="200" alt="AngryComputerCat"><br>
   <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif" width="147" alt="CrazyTypingCat">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="146" alt="ConfusedCoderCat">
   <img src="https://media1.giphy.com/media/WPaWGoyXWL4ATFHuQv/200w.webp?cid=ecf05e47qe33enxtixzggtl1fg3dz22u0zv33wruny4nuuzi&rid=200w.webp&ct=g" height="145" alt="CatParty">
