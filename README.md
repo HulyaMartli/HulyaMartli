@@ -1,23 +1,8 @@
 <section align="center">
-  <h1> Hülya | Guerillagi | Hülü</h1>
+
   <a title="Girls Who Code" href="https://www.behance.net/gallery/53402991/Girls-Who-Code-T-Shirt"><img src="https://lh3.googleusercontent.com/Fh1IMswV-uyzjBCbe0xcHldVJY7Kwb7yLTKP2y-IQuWVpmHIzcNO9nRINMigUCWYLAGNVfC6ePv80XTMFVar2-DIBfU8KAQU5zAc26afTwuf27ajhqIrKY8LWYKLBTWBs5FRVT7zZ70=w2400" style="width: 310px;" alt="WeCanCodeIt"></a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura" title="Top Used Languages"><img style="width: 290px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulyaMartli&theme=aura" alt="Top Used Languages"></a> 
   
   <a title="Streak Stats" href="https://github-readme-streak-stats.herokuapp.com/?user=hulyamartli&theme=aura"><img style="height: 120px;"  alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hulyamartli&theme=aura"></a>  <a href="https://github-readme-stats.vercel.app/api?username=HulyaMartli" title="GitHub Stats"><img alt="GitHub Stats" style="height: 120px;" src="https://github-readme-stats.vercel.app/api?username=HulyaMartli&show_icons=true&theme=aura"></a> 
-</section> 
-
----
-<section align="center">  
-Hey!
-
-I am Hulya, aka. Guerillagi. I started my coding journey while studying Chemical Engineering 👩🏻‍🔬, and through my career journey in art, architecture, and tech industries, I realized I wanted to spend my life surrounded by design 🎨 and coding 👩🏻‍💻. Thus, I am exploring ways to express myself through art and programming. You can always check my other <a href="#platforms">accounts</a> to learn more about me.
-
-Nowadays, I am all about learning something new about the web technologies. I recently graduated from the Bilge Adam Boost - Full-Stack Developer Program and completed my internship as a Jr. Frontend Developer working on a live student portal project.
-
-I define myself as a UI/UX design and Frontend Development Enthusiast, and the best quote that explains why I love Front-end Development is:
-
-> ***"Front-end Developer is someone that likes being in the intersection of art and logic. So, if you like programming but also like the artistic side of design and working with customers, being a front-end engineer is the perfect role for you."*** <br> -Codecademy
-  
-But I also love problem-solving and digging deep into details on the connection between Frontend and Backend Development, its logic, and the variety of technologies I can learn. That's why I am trying to learn all aspects of Web Development! 
 </section> 
 
 ---
@@ -57,27 +42,11 @@ But I also love problem-solving and digging deep into details on the connection 
 
 ---
 
-# 🏃🏻‍♀️💨 What am I up to these days?
-- 👩🏻‍💻 I’m currently working on JavaScript, TypeScript, Next.js and React.
-- 🗨️ You can always poke me from <a href="#platforms">Discord</a> - or any other platform that fits you - about anything related to coding, technology, etc., or just for chit-chat. 🧡
-
----
-
-# 😶‍🌫️ Personal
-
-## 🐯 Moods in General:
 <section align="center">
   <img src="https://media.giphy.com/media/l2Sq72gPlwox4o2n6/giphy.gif" width="147" alt="CrazyTypingCat">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="146" alt="ConfusedCoderCat">
   <img src="https://media1.giphy.com/media/WPaWGoyXWL4ATFHuQv/200w.webp?cid=ecf05e47qe33enxtixzggtl1fg3dz22u0zv33wruny4nuuzi&rid=200w.webp&ct=g" height="145" alt="CatParty">
 </section>
-
-## 🤹🏻‍♀️ **Fun Fact About My Nickname** ***"Guerillagi"***
-When I meet someone new, one of the questions they first ask is why my nickname is *Guerillagi* all over the place and what it means. So I wanted to add it here as a fun fact.
-
-In high school, I was crazy about this group called [Guerilla Girls](https://en.wikipedia.org/wiki/Guerrilla_Girls). They are a group of female artists devoted to fighting sexism and racism within the art world, and their creations: the posters, slogans, etc., were so amazing ([check their website](https://www.guerrillagirls.com/)) that I always dreamed of being one of them. So, I am trying to remember which platform I was signing up to, but it was around 2007 or 2008; maybe it was Twitter? :D I am not sure, though. So, I was creating a new account for that platform, and I wanted the nickname "GuerillaGirl," but it was already taken, of course. :/, and then I started deleting letters to see which nickname was available... Guerillagi was available, and I loved the sound of it! :D Like it was meant to be my nickname for good. After that, I started using it everywhere on the web. So, yes, it is that boring story actually, nothing special about it!
-
-But it is special because my nickname means something significant to me, and it reminds me that we, women, have suffered a lot just because of our gender from the past to today. I don't want to believe that, but unfortunately, this discrimination still exists worldwide. I always thought there should be an organization like "Guerilla Girls" in every occupational group, which brings me to think about the place of women in the tech world today; unfortunately, there are so few of us in this market. I want to be one of the women who change that; I want to be successful in software so I can raise women's count in this sector while doing the things I love and enjoy: coding and design!
 
 ---
 
